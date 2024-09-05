@@ -1,0 +1,6 @@
+Id,secompress,encryption,aes,blowfish,algorithm,rar,zip,signature,timestamp,segmentation,onehundredmb,onegb,performance
+0,1,0,0,0,1,1,0,0,0,0,0,0,750
+1,1,0,0,0,1,1,0,0,0,1,1,0,773
+2,1,0,0,0,1,1,0,0,0,1,0,1,770
+3,1,0,0,0,1,1,0,0,1,0,0,0,750
+4,1,0,0,0,1,1,0,0,1,1,1,0,773
